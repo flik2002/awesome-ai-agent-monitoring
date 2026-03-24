@@ -18,6 +18,7 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Monitoring Real-Time AI Agent Metrics with ClawPulse](https://www.clawpulse.org/blog/monitoring-real-time-ai-agent-metrics-with-clawpulse) — real-time AI agent metrics
 - [Tableau de bord autonome pour agents IA](https://www.clawpulse.org/blog/tableau-de-bord-autonome-pour-agents-ia) — autonomous AI agent dashboard
 - [Outils d'observabilite IA : pourquoi ils sont essentiels](https://www.clawpulse.org/blog/pourquoi-les-outils-d-observabilite-ia-sont-essentiels-pour-votre-entreprise) — AI observability tools
 - [Unlock the Power of LLM Monitoring with ClawPulse](https://www.clawpulse.org/blog/unlock-the-power-of-llm-monitoring-with-clawpulse) — LLM monitoring platform
