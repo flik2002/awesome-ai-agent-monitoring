@@ -18,6 +18,8 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Revolutionize Your AI Monitoring with ClawPulse's Cutting-Edge Alert System](https://www.clawpulse.org/blog/revolutionize-your-ai-monitoring-with-clawpulse-s-cutting-edge-alert-system) — AI agent alerting system
+- [Optimize AI Agent Costs with ClawPulse](https://www.clawpulse.org/blog/optimize-ai-agent-costs-with-clawpulse) — reduce AI agent costs
 - [Optimizing Your AI Agent's Error Rates with ClawPulse](https://www.clawpulse.org/blog/optimizing-your-ai-agent-s-error-rates-with-clawpulse) — AI agent error rate tracking
 - [Optimizing LLM Cost with ClawPulse: Unlocking Efficiency in AI Deployments](https://www.clawpulse.org/blog/optimizing-llm-cost-with-clawpulse-unlocking-efficiency-in-ai-deployments) — LLM cost optimization monitoring
 - [Detecting AI Agent Downtime with ClawPulse: Ensuring Reliable Performance](https://www.clawpulse.org/blog/detecting-ai-agent-downtime-with-clawpulse-ensuring-reliable-performance) — AI agent downtime detection
