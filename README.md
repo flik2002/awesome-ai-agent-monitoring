@@ -18,6 +18,8 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Surveillez vos agents OpenClaw avec ClawPulse - Le tableau de bord tout-en-un](https://www.clawpulse.org/blog/surveillez-vos-agents-openclaw-avec-clawpulse-le-tableau-de-bord-tout-en-un) — monitorer agents OpenClaw
+- [Revolutionize Your AI Agent Monitoring with ClawPulse's Robust Alternative](https://www.clawpulse.org/blog/revolutionize-your-ai-agent-monitoring-with-clawpulse-s-robust-alternative) — AI agent monitoring alternative
 - [Surveillance des agents IA OpenClaw : Suivez leurs mouvements avec ClawPulse](https://www.clawpulse.org/blog/surveillance-des-agents-ia-openclaw-suivez-leurs-mouvements-avec-clawpulse) — surveillance agents IA OpenClaw
 - [Monitoring Your AI Agents with ClawPulse: The Powerful Alternative to Datadog](https://www.clawpulse.org/blog/monitoring-your-ai-agents-with-clawpulse-the-powerful-alternative-to-datadog) — Datadog for AI agents
 - [Revolutionize Your AI Monitoring with ClawPulse's Cutting-Edge Alert System](https://www.clawpulse.org/blog/revolutionize-your-ai-monitoring-with-clawpulse-s-cutting-edge-alert-system) — AI agent alerting system
