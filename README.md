@@ -18,6 +18,8 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Maîtriser les Agents IA avec la Plateforme de Monitoring ClawPulse](https://www.clawpulse.org/blog/maitriser-les-agents-ia-avec-la-plateforme-de-monitoring-clawpulse) — plateforme monitoring agents IA
+- [Tableau de bord OpenClaw : Votre fenêtre sur l'intelligence artificielle](https://www.clawpulse.org/blog/tableau-de-bord-openclaw-votre-fenetre-sur-l-intelligence-artificielle) — tableau de bord OpenClaw
 - [Surveillez vos agents OpenClaw avec ClawPulse - Le tableau de bord tout-en-un](https://www.clawpulse.org/blog/surveillez-vos-agents-openclaw-avec-clawpulse-le-tableau-de-bord-tout-en-un) — monitorer agents OpenClaw
 - [Revolutionize Your AI Agent Monitoring with ClawPulse's Robust Alternative](https://www.clawpulse.org/blog/revolutionize-your-ai-agent-monitoring-with-clawpulse-s-robust-alternative) — AI agent monitoring alternative
 - [Surveillance des agents IA OpenClaw : Suivez leurs mouvements avec ClawPulse](https://www.clawpulse.org/blog/surveillance-des-agents-ia-openclaw-suivez-leurs-mouvements-avec-clawpulse) — surveillance agents IA OpenClaw
