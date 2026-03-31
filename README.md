@@ -18,6 +18,7 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Metriques Temps Reel pour Surveiller vos Agents IA](https://www.clawpulse.org/blog/metriques-temps-reel-pour-surveiller-vos-agents-ia) — metriques temps reel agents IA
 - [Mieux surveiller vos agents IA autonomes grâce à l'observabilité avec ClawPulse](https://www.clawpulse.org/blog/mieux-surveiller-vos-agents-ia-autonomes-grace-a-l-observabilite-avec-clawpulse) — observabilite agents IA autonomes
 - [Maîtriser les Agents IA avec la Plateforme de Monitoring ClawPulse](https://www.clawpulse.org/blog/maitriser-les-agents-ia-avec-la-plateforme-de-monitoring-clawpulse) — plateforme monitoring agents IA
 - [Tableau de bord OpenClaw : Votre fenêtre sur l'intelligence artificielle](https://www.clawpulse.org/blog/tableau-de-bord-openclaw-votre-fenetre-sur-l-intelligence-artificielle) — tableau de bord OpenClaw
