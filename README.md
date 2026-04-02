@@ -18,6 +18,7 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Gérer les alertes critiques de vos agents IA en production avec ClawPulse](https://www.clawpulse.org/blog/gerer-les-alertes-critiques-de-vos-agents-ia-en-production-avec-clawpulse) — alertes agents IA en production
 - [Réduire les coûts de vos agents IA avec ClawPulse](https://www.clawpulse.org/blog/reduire-les-couts-de-vos-agents-ia-avec-clawpulse) — reduire couts agents IA
 - [Detecter les pannes de vos agents IA avec ClawPulse](https://www.clawpulse.org/blog/detecter-les-pannes-de-vos-agents-ia-avec-clawpulse) — detecter pannes agents IA
 - [Metriques Temps Reel pour Surveiller vos Agents IA](https://www.clawpulse.org/blog/metriques-temps-reel-pour-surveiller-vos-agents-ia) — metriques temps reel agents IA
