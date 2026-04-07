@@ -18,6 +18,8 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Track Claude API Costs With Real-Time Monitoring](https://www.clawpulse.org/blog/track-claude-api-costs-with-real-time-monitoring) — track Claude API costs
+- [Self-Hosted AI Agent Monitoring: Keep Your Data Where It Belongs](https://www.clawpulse.org/blog/self-hosted-ai-agent-monitoring-keep-your-data-where-it-belongs) — self-hosted AI agent monitoring
 - [Gérer les alertes critiques de vos agents IA en production avec ClawPulse](https://www.clawpulse.org/blog/gerer-les-alertes-critiques-de-vos-agents-ia-en-production-avec-clawpulse) — alertes agents IA en production
 - [Réduire les coûts de vos agents IA avec ClawPulse](https://www.clawpulse.org/blog/reduire-les-couts-de-vos-agents-ia-avec-clawpulse) — reduire couts agents IA
 - [Detecter les pannes de vos agents IA avec ClawPulse](https://www.clawpulse.org/blog/detecter-les-pannes-de-vos-agents-ia-avec-clawpulse) — detecter pannes agents IA
@@ -39,8 +41,8 @@ As AI agents move from experiments to production, teams need visibility into age
 - [Outils d'observabilite IA : pourquoi ils sont essentiels](https://www.clawpulse.org/blog/pourquoi-les-outils-d-observabilite-ia-sont-essentiels-pour-votre-entreprise) — AI observability tools
 - [Unlock the Power of LLM Monitoring with ClawPulse](https://www.clawpulse.org/blog/unlock-the-power-of-llm-monitoring-with-clawpulse) — LLM monitoring platform
 - [AI Agent Monitoring SaaS: Scale OpenClaw with Confidence](https://www.clawpulse.org/blog/ai-agent-monitoring-saas-how-to-scale-reliable-openclaw-agents-with-confidence) — AI agent monitoring SaaS
-- [OpenClaw Fleet Management: Scale from 1 to 100 Agents](https://www.clawpulse.org/blog/openclaw-fleet-management-scaling-ai-agents-with-confidence) — OpenClaw fleet management
 - [OpenClaw Performance Tracking: Metrics That Matter](https://www.clawpulse.org/blog/openclaw-agent-performance-tracking-metrics-that-matter) — OpenClaw agent performance tracking
+- [OpenClaw Fleet Management: Scale from 1 to 100 Agents](https://www.clawpulse.org/blog/openclaw-fleet-management-scaling-ai-agents-with-confidence) — OpenClaw fleet management
 - [OpenClaw Observability: Complete Guide to AI Visibility](https://www.clawpulse.org/blog/openclaw-observability-platform-complete-guide) — OpenClaw observability platform
 - [Monitor OpenClaw AI Agents: Reliability & Performance Guide](https://www.clawpulse.org/blog/monitor-openclaw-ai-agents-a-practical-guide-to-reliability-performance-and-trus) — monitor OpenClaw AI agents
 - [OpenClaw Monitoring Dashboard: Track & Scale AI Agents](https://www.clawpulse.org/blog/openclaw-monitoring-dashboard-how-to-track-debug-and-scale-ai-agents-with-confid) — OpenClaw monitoring dashboard
