@@ -18,6 +18,8 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [AI Agent Uptime Monitoring: Why Your OpenClaw Agents Need Real-Time Oversight](https://www.clawpulse.org/blog/ai-agent-uptime-monitoring-why-your-openclaw-agents-need-real-time-oversight) — AI agent uptime monitoring
+- [How to Monitor OpenAI API Usage Without Losing Sleep (or Budget)](https://www.clawpulse.org/blog/how-to-monitor-openai-api-usage-without-losing-sleep-or-budget) — monitor OpenAI API usage
 - [Monitor Anthropic API Usage: Best Practices for AI Agent Oversight](https://www.clawpulse.org/blog/monitor-anthropic-api-usage-best-practices-for-ai-agent-oversight) — monitor Anthropic API usage
 - [How to Track GPT-4 API Costs Before They Spiral Out of Control](https://www.clawpulse.org/blog/how-to-track-gpt-4-api-costs-before-they-spiral-out-of-control) — track GPT-4 API costs
 - [Track Claude API Costs With Real-Time Monitoring](https://www.clawpulse.org/blog/track-claude-api-costs-with-real-time-monitoring) — track Claude API costs
