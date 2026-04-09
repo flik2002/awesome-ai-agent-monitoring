@@ -18,6 +18,9 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [How to Monitor Your Claude Agents in Production Without Losing Sleep](https://www.clawpulse.org/blog/how-to-monitor-your-claude-agents-in-production-without-losing-sleep) — Claude agent monitoring tool
+- [5 AI Agent Performance Metrics You Should Track Before They Cost You Customers](https://www.clawpulse.org/blog/5-ai-agent-performance-metrics-you-should-track-before-they-cost-you-customers) — AI agent performance metrics
+- [Production AI Agent Debugging: Essential Techniques for Reliable Deployments](https://www.clawpulse.org/blog/production-ai-agent-debugging-essential-techniques-for-reliable-deployments) — production AI agent debugging
 - [AI agent error monitoring](https://www.clawpulse.org/blog/ai-agent-error-monitoring) — AI agent error monitoring
 - [How to Track LLM Token Usage Without Losing Your Mind (or Your Budget)](https://www.clawpulse.org/blog/how-to-track-llm-token-usage-without-losing-your-mind-or-your-budget) — LLM token usage tracking
 - [AI Agent Uptime Monitoring: Why Your OpenClaw Agents Need Real-Time Oversight](https://www.clawpulse.org/blog/ai-agent-uptime-monitoring-why-your-openclaw-agents-need-real-time-oversight) — AI agent uptime monitoring
