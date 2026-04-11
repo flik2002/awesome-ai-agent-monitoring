@@ -18,6 +18,9 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [AI workflow monitoring for enterprise teams](https://www.clawpulse.org/blog/ai-workflow-monitoring-for-enterprise-teams) — AI workflow monitoring
+- [Monitor AutoGPT Agents: Best Practices for Real-Time Performance Tracking](https://www.clawpulse.org/blog/monitor-autogpt-agents-best-practices-for-real-time-performance-tracking) — monitor AutoGPT agents
+- [How to Monitor LangChain Agents in Production Without Losing Your Mind](https://www.clawpulse.org/blog/how-to-monitor-langchain-agents-in-production-without-losing-your-mind) — monitor LangChain agents
 - [AI Agent Telemetry Dashboard: Monitor Performance in Real Time](https://www.clawpulse.org/blog/ai-agent-telemetry-dashboard-monitor-performance-in-real-time) — AI agent telemetry dashboard
 - [AI Agent Log Aggregation: How to Make Sense of Millions of Agent Events](https://www.clawpulse.org/blog/ai-agent-log-aggregation-how-to-make-sense-of-millions-of-agent-events) — AI agent log aggregation
 - [OpenAI Agent Monitoring Tool: How to Keep Your AI Systems Running Smoothly](https://www.clawpulse.org/blog/openai-agent-monitoring-tool-how-to-keep-your-ai-systems-running-smoothly) — OpenAI agent monitoring tool
