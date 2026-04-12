@@ -18,6 +18,10 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Helicone alternative open source : pourquoi choisir une solution auto-hébergée pour vos agents IA](https://www.clawpulse.org/blog/helicone-alternative-open-source-pourquoi-choisir-une-solution-auto-hebergee-pou) — Helicone alternative open source
+- [How to Build a Reliable AI Agent Incident Response Workflow Before Things Break](https://www.clawpulse.org/blog/how-to-build-a-reliable-ai-agent-incident-response-workflow-before-things-break) — AI agent incident response
+- [track AI agent failures](https://www.clawpulse.org/blog/track-ai-agent-failures) — track AI agent failures
+- [How to Set Up AI Agent SLA Monitoring That Actually Catches Failures Before Your Clients Do](https://www.clawpulse.org/blog/how-to-set-up-ai-agent-sla-monitoring-that-actually-catches-failures-before-your) — AI agent SLA monitoring
 - [AI workflow monitoring for enterprise teams](https://www.clawpulse.org/blog/ai-workflow-monitoring-for-enterprise-teams) — AI workflow monitoring
 - [Monitor AutoGPT Agents: Best Practices for Real-Time Performance Tracking](https://www.clawpulse.org/blog/monitor-autogpt-agents-best-practices-for-real-time-performance-tracking) — monitor AutoGPT agents
 - [How to Monitor LangChain Agents in Production Without Losing Your Mind](https://www.clawpulse.org/blog/how-to-monitor-langchain-agents-in-production-without-losing-your-mind) — monitor LangChain agents
