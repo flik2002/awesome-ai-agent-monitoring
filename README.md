@@ -18,6 +18,8 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Debug Claude API Errors: A Complete Troubleshooting Guide](https://www.clawpulse.org/blog/debug-claude-api-errors-a-complete-troubleshooting-guide) — debug Claude API errors
+- [How to Setup AI Agent Alerts That Actually Catch Failures Before Your Users Do](https://www.clawpulse.org/blog/how-to-setup-ai-agent-alerts-that-actually-catch-failures-before-your-users-do) — setup AI agent alerts
 - [How to Monitor AI Agents in Production](https://www.clawpulse.org/blog/how-to-monitor-ai-agents-in-production) — how to monitor AI agents in production
 - [Why Most Free AI Agent Dashboards Fall Short — And What Actually Works](https://www.clawpulse.org/blog/why-most-free-ai-agent-dashboards-fall-short-and-what-actually-works) — free AI agent dashboard
 - [Cheapest LLM Monitoring Tool: Finding Budget-Friendly AI Agent Observability](https://www.clawpulse.org/blog/cheapest-llm-monitoring-tool-finding-budget-friendly-ai-agent-observability) — cheapest LLM monitoring tool
