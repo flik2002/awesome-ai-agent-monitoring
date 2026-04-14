@@ -18,6 +18,8 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [How to Monitor AI Agents in Production](https://www.clawpulse.org/blog/how-to-monitor-ai-agents-in-production) — how to monitor AI agents in production
+- [Why Most Free AI Agent Dashboards Fall Short — And What Actually Works](https://www.clawpulse.org/blog/why-most-free-ai-agent-dashboards-fall-short-and-what-actually-works) — free AI agent dashboard
 - [Cheapest LLM Monitoring Tool: Finding Budget-Friendly AI Agent Observability](https://www.clawpulse.org/blog/cheapest-llm-monitoring-tool-finding-budget-friendly-ai-agent-observability) — cheapest LLM monitoring tool
 - [Best AI Agent Monitoring Tools in 2026: What Actually Matters](https://www.clawpulse.org/blog/best-ai-agent-monitoring-tools-in-2026-what-actually-matters) — best AI agent monitoring 2026
 - [Portkey Alternative: Why ClawPulse Offers Better AI Agent Monitoring](https://www.clawpulse.org/blog/portkey-alternative-why-clawpulse-offers-better-ai-agent-monitoring) — Portkey alternative
