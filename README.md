@@ -18,6 +18,9 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Maîtriser les coûts API Claude : la méthode de suivi que tout dev devrait adopter](https://www.clawpulse.org/blog/maitriser-les-couts-api-claude-la-methode-de-suivi-que-tout-dev-devrait-adopter) — couts API Claude suivi
+- [Alertes API Anthropic : Surveillance en temps réel de vos appels Claude](https://www.clawpulse.org/blog/alertes-api-anthropic-surveillance-en-temps-reel-de-vos-appels-claude) — alertes API Anthropic
+- [Tableau de bord LLM : comment piloter vos agents IA sans perdre le contrôle](https://www.clawpulse.org/blog/tableau-de-bord-llm-comment-piloter-vos-agents-ia-sans-perdre-le-controle) — tableau de bord LLM
 - [Monitorer agents OpenAI : comment suivre les performances en temps réel](https://www.clawpulse.org/blog/monitorer-agents-openai-comment-suivre-les-performances-en-temps-reel) — monitorer agents OpenAI
 - [Comment Monitorer Vos Agents Claude en Production Sans Perdre le Contrôle](https://www.clawpulse.org/blog/comment-monitorer-vos-agents-claude-en-production-sans-perdre-le-controle) — monitorer agents Claude
 - [AI agent observability best practices](https://www.clawpulse.org/blog/ai-agent-observability-best-practices) — AI agent observability best practices
