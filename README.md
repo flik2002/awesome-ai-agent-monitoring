@@ -18,8 +18,12 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Comment monitorer les agents IA en production : guide pratique](https://www.clawpulse.org/blog/comment-monitorer-les-agents-ia-en-production-guide-pratique) — comment monitorer agents IA production
+- [Helicone vs ClawPulse: Which Open-Focused Observability Tool Fits Your AI Agent Stack?](https://www.clawpulse.org/blog/helicone-vs-clawpulse-which-open-focused-observability-tool-fits-your-ai-agent-s) — alternative Helicone open source
+- [Outil monitoring IA self-hosted : Comment surveiller vos agents IA en toute autonomie](https://www.clawpulse.org/blog/outil-monitoring-ia-self-hosted-comment-surveiller-vos-agents-ia-en-toute-autono) — outil monitoring IA self-hosted
 - [Maîtriser les coûts API Claude : la méthode de suivi que tout dev devrait adopter](https://www.clawpulse.org/blog/maitriser-les-couts-api-claude-la-methode-de-suivi-que-tout-dev-devrait-adopter) — couts API Claude suivi
 - [Alertes API Anthropic : Surveillance en temps réel de vos appels Claude](https://www.clawpulse.org/blog/alertes-api-anthropic-surveillance-en-temps-reel-de-vos-appels-claude) — alertes API Anthropic
+- [How to Monitor AI Agent Costs in 2026: A Practical Guide](https://www.clawpulse.org/blog/how-to-monitor-ai-agent-costs-2026-practical-guide) — monitor AI agent costs, track OpenAI token usage, AI agent observability, langchain monitoring, Claude API cost tracking, LLM cost management
 - [Tableau de bord LLM : comment piloter vos agents IA sans perdre le contrôle](https://www.clawpulse.org/blog/tableau-de-bord-llm-comment-piloter-vos-agents-ia-sans-perdre-le-controle) — tableau de bord LLM
 - [Monitorer agents OpenAI : comment suivre les performances en temps réel](https://www.clawpulse.org/blog/monitorer-agents-openai-comment-suivre-les-performances-en-temps-reel) — monitorer agents OpenAI
 - [Comment Monitorer Vos Agents Claude en Production Sans Perdre le Contrôle](https://www.clawpulse.org/blog/comment-monitorer-vos-agents-claude-en-production-sans-perdre-le-controle) — monitorer agents Claude
