@@ -18,6 +18,9 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Gérer les Incidents d'Agents IA: Le Playbook que Personne ne Vous Donne](https://www.clawpulse.org/blog/gerer-les-incidents-dagents-ia-le-playbook-que-personne-ne-vous-donne) — incidents agents IA gestion
+- [Monitoring agents LangChain : guide complet pour surveiller vos workflows](https://www.clawpulse.org/blog/monitoring-agents-langchain-guide-complet-pour-surveiller-vos-workflows) — monitoring agents LangChain
+- [Comment diviser par trois votre facture API LLM sans sacrifier la qualité](https://www.clawpulse.org/blog/comment-diviser-par-trois-votre-facture-api-llm-sans-sacrifier-la-qualite) — reduire facture API LLM
 - [Déboguer les erreurs API Claude : guide pratique pour les développeurs](https://www.clawpulse.org/blog/deboguer-les-erreurs-api-claude-guide-pratique-pour-les-developpeurs) — deboguer erreurs API Claude
 - [Métriques agents IA temps réel : ce que vous ratez sans observabilité live](https://www.clawpulse.org/blog/metriques-agents-ia-temps-reel-ce-que-vous-ratez-sans-observabilite-live) — metriques agents IA temps reel
 - [Comment monitorer les agents IA en production : guide pratique](https://www.clawpulse.org/blog/comment-monitorer-les-agents-ia-en-production-guide-pratique) — comment monitorer agents IA production
