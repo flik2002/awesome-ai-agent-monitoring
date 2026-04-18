@@ -18,6 +18,8 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Déboguer les erreurs API Claude : guide pratique pour les développeurs](https://www.clawpulse.org/blog/deboguer-les-erreurs-api-claude-guide-pratique-pour-les-developpeurs) — deboguer erreurs API Claude
+- [Métriques agents IA temps réel : ce que vous ratez sans observabilité live](https://www.clawpulse.org/blog/metriques-agents-ia-temps-reel-ce-que-vous-ratez-sans-observabilite-live) — metriques agents IA temps reel
 - [Comment monitorer les agents IA en production : guide pratique](https://www.clawpulse.org/blog/comment-monitorer-les-agents-ia-en-production-guide-pratique) — comment monitorer agents IA production
 - [Helicone vs ClawPulse: Which Open-Focused Observability Tool Fits Your AI Agent Stack?](https://www.clawpulse.org/blog/helicone-vs-clawpulse-which-open-focused-observability-tool-fits-your-ai-agent-s) — alternative Helicone open source
 - [Outil monitoring IA self-hosted : Comment surveiller vos agents IA en toute autonomie](https://www.clawpulse.org/blog/outil-monitoring-ia-self-hosted-comment-surveiller-vos-agents-ia-en-toute-autono) — outil monitoring IA self-hosted
