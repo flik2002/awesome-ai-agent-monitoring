@@ -18,6 +18,9 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [How Much Does the Claude API Cost in 2026? A Real Breakdown With Examples](https://www.clawpulse.org/blog/how-much-does-the-claude-api-cost-in-2026-a-real-breakdown-with-examples) — how much does Claude API cost
+- [OpenAI API Cost Per Token Explained: Real Pricing Math for Production Agents](https://www.clawpulse.org/blog/openai-api-cost-per-token-explained-real-pricing-math-for-production-agents) — OpenAI API cost per token
+- [Claude API Pricing Calculator: How to Estimate Real Costs Before You Ship](https://www.clawpulse.org/blog/claude-api-pricing-calculator-how-to-estimate-real-costs-before-you-ship) — Claude API pricing calculator
 - [Gérer les Incidents d'Agents IA: Le Playbook que Personne ne Vous Donne](https://www.clawpulse.org/blog/gerer-les-incidents-dagents-ia-le-playbook-que-personne-ne-vous-donne) — incidents agents IA gestion
 - [Monitoring agents LangChain : guide complet pour surveiller vos workflows](https://www.clawpulse.org/blog/monitoring-agents-langchain-guide-complet-pour-surveiller-vos-workflows) — monitoring agents LangChain
 - [Comment diviser par trois votre facture API LLM sans sacrifier la qualité](https://www.clawpulse.org/blog/comment-diviser-par-trois-votre-facture-api-llm-sans-sacrifier-la-qualite) — reduire facture API LLM
