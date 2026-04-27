@@ -18,6 +18,11 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [AI Agent Token Calculator: How to Estimate and Cut Your LLM Costs in 2026](https://www.clawpulse.org/blog/ai-agent-token-calculator-how-to-estimate-and-cut-your-llm-costs-in-2026) — AI agent token calculator
+- [Claude Code Monitoring: How to Track Token Usage, Errors, and Latency in Production](https://www.clawpulse.org/blog/claude-code-monitoring-how-to-track-token-usage-errors-and-latency-in-production) — Claude Code monitoring
+- [AIPD / DPIA pour agents IA : modèle d'évaluation des facteurs relatifs à la vie privée (Loi 25 + RGPD)](https://www.clawpulse.org/blog/aipd-dpia-agents-ia-modele-evaluation-impact-loi-25-rgpd-clawpulse) — AIPD agents IA, DPIA agents IA, EFVP Loi 25, modele AIPD, evaluation impact vie privee IA
+- [ClawPulse vs LangSmith: AI Agent Monitoring Comparison (2026)](https://www.clawpulse.org/blog/clawpulse-vs-langsmith-ai-agent-monitoring-comparison-2026) — clawpulse vs langsmith,langsmith alternative,ai agent monitoring,llm monitoring platform,langsmith pricing,self-host langsmith,langchain monitoring tool,fleet monitoring agents
+- [MCP Server Monitoring: How to Track Model Context Protocol Servers in Production](https://www.clawpulse.org/blog/mcp-server-monitoring-how-to-track-model-context-protocol-servers-in-production) — MCP server monitoring
 - [ClawPulse vs Arize: AI Agent Monitoring Comparison (2026)](https://www.clawpulse.org/blog/clawpulse-vs-arize-ai-agent-monitoring-comparison-2026) — clawpulse vs arize,arize alternative,arize phoenix,ai agent monitoring,openclaw monitoring
 - [Pseudonymisation des prompts LLM : le tutoriel RGPD/Loi 25 pour agents IA](https://www.clawpulse.org/blog/pseudonymisation-prompts-llm-tutoriel-rgpd-loi-25-agents-ia) — pseudonymisation prompts llm,rgpd ia,loi 25 ia,scrub pii,monitoring agents ia,clawpulse
 - [LangChain vs CrewAI vs AutoGPT: Honest 2026 Comparison for Production AI Agents](https://www.clawpulse.org/blog/langchain-vs-crewai-vs-autogpt-honest-2026-comparison-for-production-ai-agents) — LangChain vs CrewAI vs AutoGPT
