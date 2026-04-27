@@ -18,6 +18,13 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [ClawPulse vs Arize: AI Agent Monitoring Comparison (2026)](https://www.clawpulse.org/blog/clawpulse-vs-arize-ai-agent-monitoring-comparison-2026) — clawpulse vs arize,arize alternative,arize phoenix,ai agent monitoring,openclaw monitoring
+- [Pseudonymisation des prompts LLM : le tutoriel RGPD/Loi 25 pour agents IA](https://www.clawpulse.org/blog/pseudonymisation-prompts-llm-tutoriel-rgpd-loi-25-agents-ia) — pseudonymisation prompts llm,rgpd ia,loi 25 ia,scrub pii,monitoring agents ia,clawpulse
+- [LangChain vs CrewAI vs AutoGPT: Honest 2026 Comparison for Production AI Agents](https://www.clawpulse.org/blog/langchain-vs-crewai-vs-autogpt-honest-2026-comparison-for-production-ai-agents) — LangChain vs CrewAI vs AutoGPT
+- [Monitoring d'agents IA en conformité Loi 25 et RGPD : le guide souveraineté](https://www.clawpulse.org/blog/monitoring-agents-ia-conformite-loi-25-rgpd-souverainete-donnees) — monitoring agents ia loi 25, monitoring agents ia rgpd, observabilite ia souverainete, monitoring ia quebec, monitoring ia europe, conformite monitoring llm, schrems ii monitoring, pseudonym
+- [AI Agent Monitoring vs Evals: Which Do You Need First (and How They Work Together)](https://www.clawpulse.org/blog/ai-agent-monitoring-vs-evals-which-do-you-need-first) — ai agent monitoring,llm evals,monitoring vs evals,ai agent observability,llm evaluation,production agent monitoring,clawpulse,braintrust alternative
+- [AI Agent Framework Comparison: LangChain vs LlamaIndex vs CrewAI vs AutoGen in 2026](https://www.clawpulse.org/blog/ai-agent-framework-comparison-langchain-vs-llamaindex-vs-crewai-vs-autogen-in-20) — AI agent framework comparison
+- [LLM Cost Comparison 2026: Claude vs GPT vs Gemini for Production Agents](https://www.clawpulse.org/blog/llm-cost-comparison-2026-claude-vs-gpt-vs-gemini-for-production-agents) — LLM cost comparison 2026
 - [How Much Does the Claude API Cost in 2026? A Real Breakdown With Examples](https://www.clawpulse.org/blog/how-much-does-the-claude-api-cost-in-2026-a-real-breakdown-with-examples) — how much does Claude API cost
 - [OpenAI API Cost Per Token Explained: Real Pricing Math for Production Agents](https://www.clawpulse.org/blog/openai-api-cost-per-token-explained-real-pricing-math-for-production-agents) — OpenAI API cost per token
 - [Claude API Pricing Calculator: How to Estimate Real Costs Before You Ship](https://www.clawpulse.org/blog/claude-api-pricing-calculator-how-to-estimate-real-costs-before-you-ship) — Claude API pricing calculator
