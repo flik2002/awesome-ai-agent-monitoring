@@ -18,6 +18,12 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Multi-agent orchestration monitoring: comment surveiller vos systèmes IA complexes](https://www.clawpulse.org/blog/multi-agent-orchestration-monitoring-comment-surveiller-vos-systemes-ia) — multi agent orchestration monitoring
+- [LLM API Rate Limiting Best Practices: Avoid 429 Errors and Save 40% on Costs](https://www.clawpulse.org/blog/llm-api-rate-limiting-best-practices-avoid-429-errors-and-save-40-on-costs) — LLM API rate limiting best practices
+- [The 47-Point AI Agent Deployment Checklist Every Engineering Team Misses](https://www.clawpulse.org/blog/the-47-point-ai-agent-deployment-checklist-every-engineering-team-misses) — AI agent deployment checklist
+- [Best Langfuse Alternatives in 2026: 7 AI Agent Monitoring Tools Compared](https://www.clawpulse.org/blog/best-langfuse-alternatives-2026-7-ai-agent-monitoring-tools-compared) — langfuse alternatives, best langfuse alternatives 2026, langfuse alternative, ai agent monitoring tools, llm observability alternatives, langfuse vs clawpulse, langfuse competitors
+- [ClawPulse vs Braintrust: AI Agent Monitoring vs Evals (2026 Comparison)](https://www.clawpulse.org/blog/clawpulse-vs-braintrust-ai-agent-monitoring-vs-evals-comparison-2026) — clawpulse vs braintrust, braintrust alternative, ai agent monitoring vs evals, llm evaluation platform, ai monitoring platform, braintrust comparison
+- [How to Reduce OpenAI API Costs by 60% Without Sacrificing Quality](https://www.clawpulse.org/blog/how-to-reduce-openai-api-costs-by-60-without-sacrificing-quality) — how to reduce OpenAI API costs
 - [AI Agent Token Calculator: How to Estimate and Cut Your LLM Costs in 2026](https://www.clawpulse.org/blog/ai-agent-token-calculator-how-to-estimate-and-cut-your-llm-costs-in-2026) — AI agent token calculator
 - [Claude Code Monitoring: How to Track Token Usage, Errors, and Latency in Production](https://www.clawpulse.org/blog/claude-code-monitoring-how-to-track-token-usage-errors-and-latency-in-production) — Claude Code monitoring
 - [AIPD / DPIA pour agents IA : modèle d'évaluation des facteurs relatifs à la vie privée (Loi 25 + RGPD)](https://www.clawpulse.org/blog/aipd-dpia-agents-ia-modele-evaluation-impact-loi-25-rgpd-clawpulse) — AIPD agents IA, DPIA agents IA, EFVP Loi 25, modele AIPD, evaluation impact vie privee IA
