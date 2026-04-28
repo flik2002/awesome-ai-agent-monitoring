@@ -18,6 +18,9 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Cout API Claude par Token: Calcul Reel et Strategies pour Reduire Vos Couts de 60%](https://www.clawpulse.org/blog/cout-api-claude-par-token-calcul-reel-et-strategies-pour-reduire-vos-couts-de-60) — cout API Claude par token
+- [Anthropic Claude vs OpenAI GPT in Production: A 2026 Engineering Comparison](https://www.clawpulse.org/blog/anthropic-claude-vs-openai-gpt-in-production-a-2026-engineering-comparison) — Anthropic Claude vs OpenAI GPT comparison
+- [AI agent security monitoring](https://www.clawpulse.org/blog/ai-agent-security-monitoring) — AI agent security monitoring
 - [Multi-agent orchestration monitoring: comment surveiller vos systèmes IA complexes](https://www.clawpulse.org/blog/multi-agent-orchestration-monitoring-comment-surveiller-vos-systemes-ia) — multi agent orchestration monitoring
 - [LLM API Rate Limiting Best Practices: Avoid 429 Errors and Save 40% on Costs](https://www.clawpulse.org/blog/llm-api-rate-limiting-best-practices-avoid-429-errors-and-save-40-on-costs) — LLM API rate limiting best practices
 - [The 47-Point AI Agent Deployment Checklist Every Engineering Team Misses](https://www.clawpulse.org/blog/the-47-point-ai-agent-deployment-checklist-every-engineering-team-misses) — AI agent deployment checklist
