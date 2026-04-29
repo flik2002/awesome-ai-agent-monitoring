@@ -18,6 +18,12 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [The Complete Guide to AI Agent Monitoring in 2026](https://www.clawpulse.org/blog/the-complete-guide-to-ai-agent-monitoring-in-2026) — complete guide AI agent monitoring 2026
+- [Comment Optimiser la Performance d'un Agent Claude en Production (Guide Technique 2026)](https://www.clawpulse.org/blog/comment-optimiser-la-performance-dun-agent-claude-en-production-guide-technique-) — optimiser performance agents Claude
+- [Calculateur de Coût des Tokens IA: Comment Estimer le Prix Réel d'un Agent en Production](https://www.clawpulse.org/blog/calculateur-de-cout-des-tokens-ia-comment-estimer-le-prix-reel-dun-agent-en-prod) — calculateur cout tokens IA
+- [Sécurité des agents IA : pourquoi le monitoring en temps réel est essentiel](https://www.clawpulse.org/blog/securite-des-agents-ia-pourquoi-le-monitoring-en-temps-reel-est-essentiel) — securite agents IA monitoring
+- [Meilleures alternatives à Langfuse en 2026 : 7 outils de monitoring d'agents IA comparés](https://www.clawpulse.org/blog/meilleures-alternatives-a-langfuse-2026-monitoring-agents-ia) — alternative langfuse,monitoring agents ia,observabilite llm,clawpulse,helicone,portkey,langsmith,braintrust,monitoring claude api,suivi cout llm,loi 25,rgpd
+- [Déployer un agent IA en production : guide complet 2026 (Claude, GPT-4, monitoring)](https://www.clawpulse.org/blog/deployer-un-agent-ia-en-production-guide-complet-2026-claude-gpt-4-monitoring) — deployer agent IA production guide
 - [Best LangSmith Alternatives 2026: 7 LLM Observability Tools Compared](https://www.clawpulse.org/blog/best-langsmith-alternatives-2026-7-llm-observability-tools-compared) — langsmith alternatives, langsmith vs, langchain monitoring, llm observability, ai agent monitoring, langfuse, helicone, braintrust
 - [LangChain vs CrewAI: Comparaison Technique Complète pour Choisir en 2026](https://www.clawpulse.org/blog/langchain-vs-crewai-comparaison-technique-complete-pour-choisir-en-2026) — LangChain vs CrewAI comparaison
 - [Comparaison des coûts des LLM en 2026 : Guide complet pour optimiser votre budget IA](https://www.clawpulse.org/blog/comparaison-des-couts-des-llm-en-2026-guide-complet-pour-optimiser-votre-budget) — comparaison cout LLM 2026
