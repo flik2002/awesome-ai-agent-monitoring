@@ -18,6 +18,9 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Manuel de gestion des coûts pour agents IA en production](https://www.clawpulse.org/blog/manuel-de-gestion-des-couts-pour-agents-ia-en-production) — manuel gestion couts agents IA
+- [AI Agent Cost Management Playbook](https://www.clawpulse.org/blog/ai-agent-cost-management-playbook) — AI agent cost management playbook
+- [Guide complet du monitoring des agents IA en 2026 : observabilité, coûts et fiabilité](https://www.clawpulse.org/blog/guide-complet-du-monitoring-des-agents-ia-en-2026-observabilite-couts-et-fiabili) — guide complet monitoring agents IA 2026
 - [The Complete Guide to AI Agent Monitoring in 2026](https://www.clawpulse.org/blog/the-complete-guide-to-ai-agent-monitoring-in-2026) — complete guide AI agent monitoring 2026
 - [Comment Optimiser la Performance d'un Agent Claude en Production (Guide Technique 2026)](https://www.clawpulse.org/blog/comment-optimiser-la-performance-dun-agent-claude-en-production-guide-technique-) — optimiser performance agents Claude
 - [Calculateur de Coût des Tokens IA: Comment Estimer le Prix Réel d'un Agent en Production](https://www.clawpulse.org/blog/calculateur-de-cout-des-tokens-ia-comment-estimer-le-prix-reel-dun-agent-en-prod) — calculateur cout tokens IA
