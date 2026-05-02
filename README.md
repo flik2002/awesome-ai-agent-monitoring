@@ -18,6 +18,7 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [How to Decrease LLM Costs with Claude Opus](https://www.clawpulse.org/blog/how-to-decrease-llm-costs-with-claude-opus) — how to decrease llm costs with claude opus
 - [Manuel de gestion des coûts pour agents IA en production](https://www.clawpulse.org/blog/manuel-de-gestion-des-couts-pour-agents-ia-en-production) — manuel gestion couts agents IA
 - [AI Agent Cost Management Playbook](https://www.clawpulse.org/blog/ai-agent-cost-management-playbook) — AI agent cost management playbook
 - [Guide complet du monitoring des agents IA en 2026 : observabilité, coûts et fiabilité](https://www.clawpulse.org/blog/guide-complet-du-monitoring-des-agents-ia-en-2026-observabilite-couts-et-fiabili) — guide complet monitoring agents IA 2026
