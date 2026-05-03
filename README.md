@@ -18,6 +18,10 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [How to Monitor Multi-Agent LLM Trading Systems](https://www.clawpulse.org/blog/how-to-monitor-multi-agent-llm-trading-systems) — how to monitor multi-agent llm trading systems
+- [How to Use AI to Fix E2E Test Monitoring](https://www.clawpulse.org/blog/how-to-use-ai-to-fix-e2e-test-monitoring) — how to use AI to fix E2E test monitoring
+- [How to Scale AI Agent Monitoring Properly](https://www.clawpulse.org/blog/how-to-scale-ai-agent-monitoring-properly) — how to scale ai agent monitoring properly
+- [Setting Up Your Agentic AI Playground: A Complete Step-by-Step Guide](https://www.clawpulse.org/blog/setting-up-your-agentic-ai-playground-a-complete-step-by-step-guide) — agentic ai playground setup guide
 - [How to Decrease LLM Costs with Claude Opus](https://www.clawpulse.org/blog/how-to-decrease-llm-costs-with-claude-opus) — how to decrease llm costs with claude opus
 - [Manuel de gestion des coûts pour agents IA en production](https://www.clawpulse.org/blog/manuel-de-gestion-des-couts-pour-agents-ia-en-production) — manuel gestion couts agents IA
 - [AI Agent Cost Management Playbook](https://www.clawpulse.org/blog/ai-agent-cost-management-playbook) — AI agent cost management playbook
