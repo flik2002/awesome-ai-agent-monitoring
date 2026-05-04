@@ -18,6 +18,9 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Building Persistent AI Assistant Monitoring Observability](https://www.clawpulse.org/blog/building-persistent-ai-assistant-monitoring-observability) — building persistent ai assistant monitoring observability
+- [Building AI Agent Monitoring Into Browser Extensions](https://www.clawpulse.org/blog/building-ai-agent-monitoring-into-browser-extensions) — building ai agent monitoring into browser extensions
+- [Best Practices for Monitoring MCP Server Performance](https://www.clawpulse.org/blog/best-practices-for-monitoring-mcp-server-performance) — best practices for monitoring mcp server performance
 - [How to Prevent Destructive Behavior in MCP Tool Monitoring](https://www.clawpulse.org/blog/how-to-prevent-destructive-behavior-in-mcp-tool-monitoring) — how to prevent destructive behavior in mcp tool monitoring
 - [Best Agent Orchestration Platforms for Claude Models](https://www.clawpulse.org/blog/best-agent-orchestration-platforms-for-claude-models) — best agent orchestration platforms for claude models
 - [How to Monitor Multi-Agent LLM Trading Systems](https://www.clawpulse.org/blog/how-to-monitor-multi-agent-llm-trading-systems) — how to monitor multi-agent llm trading systems
