@@ -18,6 +18,8 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [How to Prevent Destructive Behavior in MCP Tool Monitoring](https://www.clawpulse.org/blog/how-to-prevent-destructive-behavior-in-mcp-tool-monitoring) — how to prevent destructive behavior in mcp tool monitoring
+- [Best Agent Orchestration Platforms for Claude Models](https://www.clawpulse.org/blog/best-agent-orchestration-platforms-for-claude-models) — best agent orchestration platforms for claude models
 - [How to Monitor Multi-Agent LLM Trading Systems](https://www.clawpulse.org/blog/how-to-monitor-multi-agent-llm-trading-systems) — how to monitor multi-agent llm trading systems
 - [How to Use AI to Fix E2E Test Monitoring](https://www.clawpulse.org/blog/how-to-use-ai-to-fix-e2e-test-monitoring) — how to use AI to fix E2E test monitoring
 - [How to Scale AI Agent Monitoring Properly](https://www.clawpulse.org/blog/how-to-scale-ai-agent-monitoring-properly) — how to scale ai agent monitoring properly
