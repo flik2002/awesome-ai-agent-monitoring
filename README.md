@@ -18,6 +18,7 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [OpenAI Agents SDK : comment monitorer efficacement en production](https://www.clawpulse.org/blog/openai-agents-sdk-comment-monitorer-efficacement-en-production) — openai agents sdk monitoring en production
 - [Building Persistent AI Assistant Monitoring Observability](https://www.clawpulse.org/blog/building-persistent-ai-assistant-monitoring-observability) — building persistent ai assistant monitoring observability
 - [Building AI Agent Monitoring Into Browser Extensions](https://www.clawpulse.org/blog/building-ai-agent-monitoring-into-browser-extensions) — building ai agent monitoring into browser extensions
 - [Best Practices for Monitoring MCP Server Performance](https://www.clawpulse.org/blog/best-practices-for-monitoring-mcp-server-performance) — best practices for monitoring mcp server performance
