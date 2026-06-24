@@ -16,8 +16,21 @@ As AI agents move from experiments to production, teams need visibility into age
 - **Features**: Real-time dashboards, alerting (Slack/Email/Discord), fleet management, cost tracking, performance analytics
 - **Free tier**: Available at [clawpulse.org/signup](https://www.clawpulse.org/signup)
 
+### OpenClaw Monitor
+
+> Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
+
+- **Website**: [GitHub Repo](https://github.com/flik2002/openclaw-monitor)
+- **Live Demo**: [47.109.47.116](http://47.109.47.116/) (24/7)
+- **Features**: Token usage tracking per model, session-level monitoring with logs, 7-day trend charts, multi-model support (Claude Code, Codex, DeepSeek V4, etc.), JWT auth, multi-language (Chinese/English)
+- **Tech Stack**: Vue 3 + ECharts + Node.js + Express
+- **License**: MIT
+
 ## Articles & Guides
 
+- [Local LLMs vs Cloud AI APIs: The Hidden Costs of Monitoring Your AI Stack](https://www.clawpulse.org/blog/local-llms-vs-cloud-ai-apis-the-hidden-costs-of-monitoring-your-ai-stack) — local llms vs cloud ai apis monitoring costs
+- [How to Build Interactive MCP Applications for AI Monitoring](https://www.clawpulse.org/blog/how-to-build-interactive-mcp-applications-for-ai-monitoring) — how to build interactive mcp applications for ai monitoring
+- [Surveillance MCP : comment monitorer vos serveurs MCP en production (guide 2026)](https://www.clawpulse.org/blog/surveillance-mcp-comment-monitorer-vos-serveurs-model-context-protocol-en-production-2026) — surveillance mcp, monitoring mcp, model context protocol, serveur mcp production, observabilite mcp, openclaw mcp, json-rpc monitoring, mcp claude monitoring
 - [OpenAI Agents SDK : comment monitorer efficacement en production](https://www.clawpulse.org/blog/openai-agents-sdk-comment-monitorer-efficacement-en-production) — openai agents sdk monitoring en production
 - [Building Persistent AI Assistant Monitoring Observability](https://www.clawpulse.org/blog/building-persistent-ai-assistant-monitoring-observability) — building persistent ai assistant monitoring observability
 - [Building AI Agent Monitoring Into Browser Extensions](https://www.clawpulse.org/blog/building-ai-agent-monitoring-into-browser-extensions) — building ai agent monitoring into browser extensions
